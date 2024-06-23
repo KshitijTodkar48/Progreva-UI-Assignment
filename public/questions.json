@@ -1,0 +1,202 @@
+[
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "Berlin" },
+        { "id": "optionB", "option": "B", "value": "Madrid" },
+        { "id": "optionC", "option": "C", "value": "Paris" },
+        { "id": "optionD", "option": "D", "value": "Rome" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the largest ocean on Earth?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "Atlantic Ocean" },
+        { "id": "optionB", "option": "B", "value": "Indian Ocean" },
+        { "id": "optionC", "option": "C", "value": "Pacific Ocean" },
+        { "id": "optionD", "option": "D", "value": "Arctic Ocean" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the smallest planet in our solar system?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "Earth" },
+        { "id": "optionB", "option": "B", "value": "Mercury" },
+        { "id": "optionC", "option": "C", "value": "Venus" },
+        { "id": "optionD", "option": "D", "value": "Mars" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "Oxygen" },
+        { "id": "optionB", "option": "B", "value": "Gold" },
+        { "id": "optionC", "option": "C", "value": "Silver" },
+        { "id": "optionD", "option": "D", "value": "Osmium" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "Vincent van Gogh" },
+        { "id": "optionB", "option": "B", "value": "Pablo Picasso" },
+        { "id": "optionC", "option": "C", "value": "Leonardo da Vinci" },
+        { "id": "optionD", "option": "D", "value": "Claude Monet" }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the largest mammal in the world?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "Elephant" },
+        { "id": "optionB", "option": "B", "value": "Whale Shark" },
+        { "id": "optionC", "option": "C", "value": "Blue Whale" },
+        { "id": "optionD", "option": "D", "value": "Giraffe" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is the main ingredient in guacamole?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "Tomato" },
+        { "id": "optionB", "option": "B", "value": "Onion" },
+        { "id": "optionC", "option": "C", "value": "Avocado" },
+        { "id": "optionD", "option": "D", "value": "Pepper" }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "Jupiter" },
+        { "id": "optionB", "option": "B", "value": "Saturn" },
+        { "id": "optionC", "option": "C", "value": "Mars" },
+        { "id": "optionD", "option": "D", "value": "Venus" }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is the currency of Japan?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "Yuan" },
+        { "id": "optionB", "option": "B", "value": "Won" },
+        { "id": "optionC", "option": "C", "value": "Yen" },
+        { "id": "optionD", "option": "D", "value": "Rupee" }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Who is known as the father of computers?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "Alan Turing" },
+        { "id": "optionB", "option": "B", "value": "Charles Babbage" },
+        { "id": "optionC", "option": "C", "value": "Thomas Edison" },
+        { "id": "optionD", "option": "D", "value": "Alexander Graham Bell" }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "What is the hardest natural substance on Earth?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "Gold" },
+        { "id": "optionB", "option": "B", "value": "Iron" },
+        { "id": "optionC", "option": "C", "value": "Diamond" },
+        { "id": "optionD", "option": "D", "value": "Platinum" }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "Harper Lee" },
+        { "id": "optionB", "option": "B", "value": "J.K. Rowling" },
+        { "id": "optionC", "option": "C", "value": "Ernest Hemingway" },
+        { "id": "optionD", "option": "D", "value": "Jane Austen" }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "What is the chemical symbol for water?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "O2" },
+        { "id": "optionB", "option": "B", "value": "H2" },
+        { "id": "optionC", "option": "C", "value": "H2O" },
+        { "id": "optionD", "option": "D", "value": "HO" }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Who discovered penicillin?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "Marie Curie" },
+        { "id": "optionB", "option": "B", "value": "Alexander Fleming" },
+        { "id": "optionC", "option": "C", "value": "Louis Pasteur" },
+        { "id": "optionD", "option": "D", "value": "Gregor Mendel" }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "What is the tallest mountain in the world?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "K2" },
+        { "id": "optionB", "option": "B", "value": "Kangchenjunga" },
+        { "id": "optionC", "option": "C", "value": "Mount Everest" },
+        { "id": "optionD", "option": "D", "value": "Lhotse" }
+      ]
+    },
+    {
+      "id": 16,
+      "question": "What is the primary language spoken in Brazil?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "Spanish" },
+        { "id": "optionB", "option": "B", "value": "Portuguese" },
+        { "id": "optionC", "option": "C", "value": "English" },
+        { "id": "optionD", "option": "D", "value": "French" }
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Which is the longest river in the world?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "Amazon River" },
+        { "id": "optionB", "option": "B", "value": "Nile River" },
+        { "id": "optionC", "option": "C", "value": "Yangtze River" },
+        { "id": "optionD", "option": "D", "value": "Mississippi River" }
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Who developed the theory of relativity?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "Isaac Newton" },
+        { "id": "optionB", "option": "B", "value": "Albert Einstein" },
+        { "id": "optionC", "option": "C", "value": "Galileo Galilei" },
+        { "id": "optionD", "option": "D", "value": "Nikola Tesla" }
+      ]
+    },
+    {
+      "id": 19,
+      "question": "What is the largest desert in the world?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "Sahara Desert" },
+        { "id": "optionB", "option": "B", "value": "Arabian Desert" },
+        { "id": "optionC", "option": "C", "value": "Gobi Desert" },
+        { "id": "optionD", "option": "D", "value": "Kalahari Desert" }
+      ]
+    },
+    {
+      "id": 20,
+      "question": "What is the main ingredient in traditional Japanese miso soup?",
+      "options": [
+        { "id": "optionA", "option": "A", "value": "Seaweed" },
+        { "id": "optionB", "option": "B", "value": "Soybean paste" },
+        { "id": "optionC", "option": "C", "value": "Tofu" },
+        { "id": "optionD", "option": "D", "value": "Fish" }
+      ]
+    }
+]  
