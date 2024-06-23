@@ -16,7 +16,7 @@ export const QuestionCard = ({ question }) => {
             </div>
             <div className="mt-4">
                 <p className="text-xl font-medium text-gray-900 mb-4">
-                   {question?.id + '.'} {question?.question}
+                  { question ? <> {question.id + '.'} {question.question} </> : <></> }
                 </p>
                 <form className="space-y-4">
                     {
