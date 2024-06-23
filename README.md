@@ -1,6 +1,6 @@
 ## 🔧 Tech-Stack used:
 
-### 1. 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀: 
+### 1. React.js: 
 for building a dynamic and interactive user interface.
 
 ### 2. Flowbite React:
