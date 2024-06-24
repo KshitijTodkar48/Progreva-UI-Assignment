@@ -27,7 +27,7 @@ function App() {
     <div className="m-10 xl:m-12 flex flex-col gap-5">
       <ProgressBar currentQueNo={index + 1} />
       <div className="sm:flex justify-center gap-10">
-        <div className="sm:w-3/5">
+        <div className="sm:w-[56%]">
           <QuestionCard question={questions[index]} />
           <Buttons nextQuestion={nextQuestion} />
         </div>
